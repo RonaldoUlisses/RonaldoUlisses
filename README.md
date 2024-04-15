@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **QGIS, BI, SQL e Phyton**
 
-- 💬 Ask me about **Excel, Power Bi e Python**
+- 💬 Ask me about **QGIS,Excel, Power Bi, SQL e Python**
 
 - 📫 How to reach me **ulisses.22@hotmail.com**
 
