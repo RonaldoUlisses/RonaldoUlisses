@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ronaldo Ulisses</h1>
 <h3 align="center">Always up for a new challenge</h3>
 
-- 🌱 I’m currently learning **BI, SQL e Phyton**
+- 🌱 I’m currently learning **QGIS, BI, SQL e Phyton**
 
 - 💬 Ask me about **Excel, Power Bi e Python**
 
